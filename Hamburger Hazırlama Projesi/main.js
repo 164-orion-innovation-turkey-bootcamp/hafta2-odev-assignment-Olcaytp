@@ -50,7 +50,7 @@ function newTodo(todo, timeout) {
 	});
 }
 
-//Set Meatball cooking time
+// checking Meatball cooking time
 async function cookingTime(time) {
 	switch (time) {
 		case "well":
