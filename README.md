@@ -45,7 +45,9 @@ Verilen malzeme listesi ve iş sürecini kullanarak bir hamburger işletmesi fon
 Kullanılacak diller: (JavaScript, TypeScript)
 Herhangi bir html,css görüntü katmanına gerek yok. Sadece fonksiyonelite örneği hazırlanmalıdır.
 </strong>
+<br>
+<br>
 <strong>
-Hamburger preparation project was prepared according to customer requests. By asking the user to choose the menu 
-and the number of hamburgers, the order was taken and the hamburgers were prepared.
+Hamburger hazırlama projesi mşteri isteklerine göre hazırlandı. Kullanıcıdan menü ve 
+hamburger adedi seçmesi istenerek sipariş alınarak, hamburgerler hazırlandı.
 </strong>
